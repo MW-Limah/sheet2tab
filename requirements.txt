@@ -1,0 +1,5 @@
+opencv-python 
+numpy 
+music21
+customtkinter
+pdf2image
